@@ -32,7 +32,7 @@ Ao longo da minha trajetória, adquiri experiência em áreas como desenvolvimen
 <br/>
 
 <section>
-  ###💻 Minhas principais habilidades incluem:
+<h2>💻 Minhas principais habilidades incluem:</h2>
 
 <p>---->Frontend: Criação de interfaces intuitivas e responsivas com HTML, CSS, e React.</p>
 <p>---->Backend: Desenvolvimento de APIs e serviços robustos utilizando Express e gerenciamento de banco de dados com MySQL.</p>
@@ -44,20 +44,20 @@ Ao longo da minha trajetória, adquiri experiência em áreas como desenvolvimen
 <br/>
 
 <section>
-###🚀 O que me motiva? 
+<h2>🚀 O que me motiva? </h2>
   <p>Continuar aprendendo e enfrentando novos desafios técnicos. Estou sempre em busca de oportunidades para aplicar minhas habilidades e colaborar em projetos inovadores.</p>
 </section>
 <br/>
 <br/>
 <section>
-  ###📬 Vamos Conectar!
+ <h2>📬 Vamos Conectar!</h2>
   <p>Se você estiver interessado em colaborar ou discutir oportunidades que se alinhem com minhas habilidades e interesses, entre em contato!</p
 
 </section>
 <br/>
 <br/>
 <section>
-  ###Me siga nas redes sociais:
+  <h2>Me siga nas redes sociais:</h2>
   <p>Instagram: @kailane.sarah</p>
   <p>Linkedin: www.linkedin.com/in/kailane-sarah</p>
 </section>

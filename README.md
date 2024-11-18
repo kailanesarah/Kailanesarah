@@ -6,11 +6,10 @@
   <img src="capa.png"/>
   ###Sobre
   <p>
-    Olá, tudo bem? 😊 Sou a Kailane, e meu objetivo é desenvolver soluções rápidas e inovadoras com tecnologia.
-    Atualmente, estou cursando Ciências da Computação no Instituto Federal do Ceará (IFCE) e sou apaixonada por programação e resolução de problemas.
-    ✍️ Minha trajetória profissional inclui experiências diversificadas, desde marketing até desenvolvimento web. Atuei como redatora, analista de mídias sociais, copywriter, designer gráfico e desenvolvedora WordPress 🌐.
-    Sim, sou publicitária, uma das minhas grandes paixões. E a curiosidade é o que me move, decidi seguir um novo caminho e estou estudando e me aprofundando em programação, desenvolvimento web.
-    Vamos criar conexões e crescer juntos! Me siga nas redes sociais. 😊</p>
+   Olá! 😊 Sou Kailane, desenvolvedora e copywriter com experiência em criação de soluções rápidas e inovadoras com tecnologia. Atualmente, curso Ciências da Computação no Instituto Federal do Ceará (IFCE) e sou apaixonada por programação, marketing digital e resolução de problemas complexos.<br>
+
+Ao longo da minha trajetória, adquiri experiência em áreas como desenvolvimento web com WordPress, programação em Python, Django e React. Tenho um olhar estratégico, resultado da minha formação publicitária e do trabalho como copywriter, redatora e analista de mídias sociais. Essa combinação de habilidades me permite criar soluções que não apenas funcionam tecnicamente, mas também geram impacto e engajamento.
+</p>
 
 <br/>
 

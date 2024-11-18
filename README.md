@@ -4,7 +4,7 @@
 </head>
 <body>
   <img src="capa.png"/>
-  ###Sobre
+  <h2>Sobre</h2>
   <p>
    Olá! 😊 Sou Kailane, desenvolvedora e copywriter com experiência em criação de soluções rápidas e inovadoras com tecnologia. Atualmente, curso Ciências da Computação no Instituto Federal do Ceará (IFCE) e sou apaixonada por programação, marketing digital e resolução de problemas complexos.<br>
 
@@ -13,7 +13,7 @@ Ao longo da minha trajetória, adquiri experiência em áreas como desenvolvimen
 
 <br/>
 
-  ###Atualmente, estou ampliando meu conhecimento em tecnologias modernas, incluindo:
+ <h2>Atualmente, estou ampliando meu conhecimento em tecnologias modernas, incluindo:</h2>
   <section>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="40" heigth="40"/>
   </section>
@@ -34,9 +34,9 @@ Ao longo da minha trajetória, adquiri experiência em áreas como desenvolvimen
 <section>
 <h2>💻 Minhas principais habilidades incluem:</h2>
 
-<p>---->Frontend: Criação de interfaces intuitivas e responsivas com HTML, CSS, e React.</p>
-<p>---->Backend: Desenvolvimento de APIs e serviços robustos utilizando Express e gerenciamento de banco de dados com MySQL.</p>
-<p>---->Integração de Sistemas: Conexão e integração de frontend e backend para garantir um fluxo de dados coeso.</p>
+<p>Frontend: Criação de interfaces intuitivas e responsivas com HTML, CSS, e React.</p>
+<p>Backend: Desenvolvimento de APIs e serviços robustos utilizando Express e gerenciamento de banco de dados com MySQL.</p>
+<p>Integração de Sistemas: Conexão e integração de frontend e backend para garantir um fluxo de dados coeso.</p>
 
 </section>
 

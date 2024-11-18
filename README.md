@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-  <img src="Blue Gradient Modern LinkedIn Banner (1).png"/>
+  <img src="Imagens/capa.png"/>
   ###Sobre
   <p>
     Olá, tudo bem? 😊 Sou a Kailane, e meu objetivo é desenvolver soluções rápidas e inovadoras com tecnologia.

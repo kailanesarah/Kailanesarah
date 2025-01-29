@@ -1,65 +1,54 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-br">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <img src="capa.png"/>
-  <h2>Sobre</h2>
-  <p>
-   Olá! 😊 Sou Kailane, desenvolvedora e copywriter com experiência em criação de soluções rápidas e inovadoras com tecnologia. Atualmente, curso Ciências da Computação no Instituto Federal do Ceará (IFCE) e sou apaixonada por programação, marketing digital e resolução de problemas complexos.<br>
+  <header>
+    <img src="capa.png" alt="Imagem de Capa" style="width: 100%; max-height: 400px; object-fit: cover;">
+  </header>
 
-Ao longo da minha trajetória, adquiri experiência em áreas como desenvolvimento web com WordPress, programação em Python, Django e React. Tenho um olhar estratégico, resultado da minha formação publicitária e do trabalho como copywriter, redatora e analista de mídias sociais. Essa combinação de habilidades me permite criar soluções que não apenas funcionam tecnicamente, mas também geram impacto e engajamento.
-</p>
+  <main>
+    <section>
+      <h2>Olá! Bem-vindo(a) ao meu perfil!</h2>
+      <p>Sou Kailane, uma desenvolvedora full-stack apaixonada por criar soluções digitais estratégicas, robustas e escaláveis. Especializada em Python/Django e desenvolvimento de sites com Wordpress, combino habilidades técnicas e criatividade para atender às necessidades de um mercado digital em constante evolução.</p>
+      <p>Atualmente, sou estudante de Ciências da Computação no Instituto Federal do Ceará (IFCE) e tenho experiência nas áreas abaixo:</p>
+    </section>
 
-<br/>
-
- <h2>Atualmente, estou ampliando meu conhecimento em tecnologias modernas, incluindo:</h2>
   <section>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="40" heigth="40"/>
-  </section>
+      <h2>✅ Minhas principais habilidades incluem:</h2>
+      <ul>
+        <li><strong>Desenvolvimento Backend:</strong> Criação de APIs e sistemas robustos com Python e Django.</li>
+        <li><strong>Frontend Moderno:</strong> Desenvolvimento de interfaces dinâmicas e interativas com React e JavaScript.</li>
+        <li><strong>Web Design & CMS:</strong> Personalização avançada de sites WordPress, com foco em design responsivo e desempenho.</li>
+        <li><strong>Marketing e Conteúdo Estratégico:</strong> Background em copywriting e SEO, garantindo que os projetos sejam tecnicamente eficientes e também engajantes.</li>
+      </ul>
+    </section>
+
   <section>
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Logo"  width="40" heigth="40" />
-  </section>
+      <h2>🛠️ Minhas Especialidades</h2>
+      <ul>
+        <li><strong>Desenvolvimento Web:</strong> Backend: Python, Django, APIs RESTful. Frontend: React, JavaScript, HTML5, CSS3.</li>
+        <li><strong>CMS:</strong> WordPress (temas, plugins e personalização).</li>
+        <li><strong>Conteúdo e Estratégia:</strong> Copywriting Técnico, SEO e UX Writing.</li>
+        <li><strong>Design Responsivo:</strong> Criação de websites otimizados, adaptáveis a diferentes dispositivos e navegadores.</li>
+        <li><strong>Ferramentas e Colaboração:</strong> Git & GitHub, Metodologias Ágeis, Figma.</li>
+      </ul>
+    </section>
+
   <section>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" heigth="40" />
-  </section>
-  
+      <h2>🚀 Vamos Conectar?</h2>
+      <p>Se você busca alguém que possa unir desenvolvimento técnico e estratégia de comunicação para criar soluções inovadoras, estou pronta para ajudar!</p>
+    </section>
+
   <section>
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL Logo"  width="40" heigth="40"/>
-  </section>
-
-<br/>
-<br/>
-
-<section>
-<h2>💻 Minhas principais habilidades incluem:</h2>
-
-<p>Frontend: Criação de interfaces intuitivas e responsivas com HTML, CSS, e React.</p>
-<p>Backend: Desenvolvimento de APIs e serviços robustos utilizando Express e gerenciamento de banco de dados com MySQL.</p>
-<p>Integração de Sistemas: Conexão e integração de frontend e backend para garantir um fluxo de dados coeso.</p>
-
-</section>
-
-<br/>
-<br/>
-
-<section>
-<h2>🚀 O que me motiva? </h2>
-  <p>Continuar aprendendo e enfrentando novos desafios técnicos. Estou sempre em busca de oportunidades para aplicar minhas habilidades e colaborar em projetos inovadores.</p>
-</section>
-<br/>
-<br/>
-<section>
- <h2>📬 Vamos Conectar!</h2>
-  <p>Se você estiver interessado em colaborar ou discutir oportunidades que se alinhem com minhas habilidades e interesses, entre em contato!</p
-
-</section>
-<br/>
-<br/>
-<section>
-  <h2>Me siga nas redes sociais:</h2>
-  <p>Instagram: @kailane.sarah</p>
-  <p>Linkedin: www.linkedin.com/in/kailane-sarah</p>
-</section>
+      <h2>🔗 Me siga nas redes sociais:</h2>
+      <ul>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/kailane-sarah" target="_blank">www.linkedin.com/in/kailane-sarah</a></li>
+        <li>Instagram: <a href="https://www.instagram.com/kailane.sarah/" target="_blank">@kailane.sarah</a></li>
+      </ul>
+    </section>
+  </main>
 </body>
 </html>

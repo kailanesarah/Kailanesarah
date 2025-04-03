@@ -11,44 +11,51 @@
 
   <main>
     <section>
-      <h2>Olá! Bem-vindo(a) ao meu perfil!</h2>
-      <p>Sou Kailane, uma desenvolvedora full-stack apaixonada por criar soluções digitais estratégicas, robustas e escaláveis. Especializada em Python/Django e desenvolvimento de sites com Wordpress, combino habilidades técnicas e criatividade para atender às necessidades de um mercado digital em constante evolução.</p>
-      <p>Atualmente, sou estudante de Ciências da Computação no Instituto Federal do Ceará (IFCE) e tenho experiência nas áreas abaixo:</p>
+      <h2>👋 Olá! Bem-vindo(a) ao meu GitHub</h2>
+      <p>Sou <strong>Kailane Sarah</strong>, desenvolvedora full-stack especializada em <strong>Python/Django, React e WordPress</strong>. Tenho experiência na criação de <strong>APIs RESTful, aplicações escaláveis e personalização de CMS</strong>. Busco sempre aliar tecnologia e estratégia digital para entregar soluções eficientes e de alto impacto.</p>
     </section>
 
   <section>
-      <h2>✅ Minhas principais habilidades incluem:</h2>
+      <h2>💡 Habilidades & Tecnologias</h2>
       <ul>
-        <li><strong>Desenvolvimento Backend:</strong> Criação de APIs e sistemas robustos com Python e Django.</li>
-        <li><strong>Frontend Moderno:</strong> Desenvolvimento de interfaces dinâmicas e interativas com React e JavaScript.</li>
-        <li><strong>Web Design & CMS:</strong> Personalização avançada de sites WordPress, com foco em design responsivo e desempenho.</li>
-        <li><strong>Marketing e Conteúdo Estratégico:</strong> Background em copywriting e SEO, garantindo que os projetos sejam tecnicamente eficientes e também engajantes.</li>
+        <li><strong>Backend:</strong> Python, Django, Django REST Framework.</li>
+        <li><strong>Frontend:</strong> React, JavaScript, TypeScript, HTML5, CSS3.</li>
+        <li><strong>Banco de Dados:</strong> PostgreSQL, MySQL, SQLite.</li>
+        <li><strong>CMS & Web Design:</strong> WordPress (temas, plugins, SEO e otimização de performance).</li>
+        <li><strong>Versionamento & Colaboração:</strong> Git, GitHub, Metodologias Ágeis.</li>
+        <li><strong>UI/UX & Estratégia Digital:</strong> Figma, Copywriting, SEO, UX Writing.</li>
       </ul>
     </section>
 
   <section>
-      <h2>🛠️ Minhas Especialidades</h2>
+      <h2>🚀 Projetos em Destaque</h2>
       <ul>
-        <li><strong>Desenvolvimento Web:</strong> Backend: Python, Django, APIs RESTful. Frontend: React, JavaScript, HTML5, CSS3.</li>
-        <li><strong>CMS:</strong> WordPress (temas, plugins e personalização).</li>
-        <li><strong>Conteúdo e Estratégia:</strong> Copywriting Técnico, SEO e UX Writing.</li>
-        <li><strong>Design Responsivo:</strong> Criação de websites otimizados, adaptáveis a diferentes dispositivos e navegadores.</li>
-        <li><strong>Ferramentas e Colaboração:</strong> Git & GitHub, Metodologias Ágeis, Figma.</li>
+        <li>
+          <strong><a href="https://github.com/kailanesarah/api-django-rest" target="_blank">📌 API de Gestão de Filmes</a></strong>  
+          <p>API foi desenvolvida em Django utilizando o Django REST Framework (DRF) para facilitar a gestão de filmes, atores, avaliações e gêneros.</p>
+        </li>
+        <li>
+          <strong><a href="https://github.com/kailanesarah/landing-page-rotas-da-ibiapaba" target="_blank">📌 Landing Page Roras da Ibiapaba</a></strong>  
+          <p>ste projeto é uma landing page altamente responsiva e otimizada, desenvolvida com React.js e Tailwind CSS para garantir um design moderno, performance avançada e ótima experiência do usuário.</p>
+        </li>
       </ul>
     </section>
 
   <section>
-      <h2>🚀 Vamos Conectar?</h2>
-      <p>Se você busca alguém que possa unir desenvolvimento técnico e estratégia de comunicação para criar soluções inovadoras, estou pronta para ajudar!</p>
+      <h2>📬 Vamos Conectar?</h2>
+      <p>Se você busca um desenvolvedor que una <strong>código limpo, desempenho e estratégia digital</strong>, estou à disposição!</p>
     </section>
 
   <section>
-      <h2>🔗 Me siga nas redes sociais:</h2>
+      <h2>🔗 Me siga nas redes:</h2>
       <ul>
-        <li>LinkedIn: <a href="https://www.linkedin.com/in/kailane-sarah" target="_blank">www.linkedin.com/in/kailane-sarah</a></li>
-        <li>Instagram: <a href="https://www.instagram.com/kailane.sarah/" target="_blank">@kailane.sarah</a></li>
-      </ul>
-    </section>
+        <li><a href="https://www.linkedin.com/in/kailane-sarah" target="_blank">LinkedIn</a></li>
+        <li><a href="https://www.instagram.com/kailane.sarah/" target="_blank">Instagram</a></li>
+        <li><a href="https://vercel.com/kailane-sarahs-projects" target="_blank">Vercel</a></li>
+        <li><a href="https://vercel.com/kailane-sarahs-projects" target="_blank">Vercel</a></li>
+        
+  </ul>
+  </section>
   </main>
 </body>
 </html>
